@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 Github Stats 📊📈:-
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naitiksaraf25&show_icons=true&theme=dark)
 ![Top Streak](https://github-readme-streak-stats.herokuapp.com/?user=naitiksaraf25&theme=dark)
