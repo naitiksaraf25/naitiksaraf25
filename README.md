@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Github Stats 📊📈:-
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2088FF&center=true&vCenter=true&width=500&lines=React+Native;FastAPI;Django;Full-Stack+Developer" alt="Typing SVG" />
+  </a>
+</p>
+
+Github Metrics 📊📈:-
 
 ![Top Streak](https://github-readme-streak-stats.herokuapp.com/?user=naitiksaraf25&theme=dark)
