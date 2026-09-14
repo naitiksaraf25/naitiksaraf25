@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2088FF&center=true&vCenter=true&width=500&lines=React+Native;FastAPI;Django;Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2088FF&center=true&vCenter=true&width=500&lines=C++;JavaScript+React+Node.js;Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
