@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="mailto:naitiksaraf2507@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75a7&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=naitiksaraf25&label=Profile%20views&color=0e75a7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
