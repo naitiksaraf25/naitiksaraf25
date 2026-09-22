@@ -107,17 +107,6 @@ software solutions and continuously improving my problem-solving skills.
 </p>
 
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=naitiksaraf25&theme=tokyo-night&hide_border=true&area=true" 
-    width="95%"
-  />
-</p>
-
----
-
 ## 💡 Areas of Interest
 
 <p align="center">
