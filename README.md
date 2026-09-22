@@ -63,27 +63,6 @@ software solutions and continuously improving my problem-solving skills.
 
 ---
 
-## 🧠 DSA & Problem Solving
-
-I regularly practice Data Structures & Algorithms to strengthen
-problem-solving, algorithmic thinking and coding fundamentals.
-
-- Arrays & Strings
-- Linked Lists
-- Stacks & Queues
-- Recursion & Backtracking
-- Trees & BST
-- Graphs
-- Greedy Algorithms
-- Dynamic Programming
-
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-270%2B%20Problems-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Generative AI
