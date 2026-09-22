@@ -5,16 +5,16 @@ CSE Student • MERN Stack Developer • DSA • Exploring AI & GenAI
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/naitik-saraf-25ns07">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:naitiksaraf2507@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/naitiksaraf/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="YOUR_GFG_URL">
+  <a href="https://www.geeksforgeeks.org/profile/naitiksacgdx">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
@@ -128,10 +128,10 @@ I'm always open to discussing software development, interesting projects,
 AI, problem solving and collaboration opportunities.
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="www.linkedin.com/in/naitik-saraf-25ns07">LinkedIn</a> •
   <a href="mailto:naitiksaraf2507@gmail.com">Email</a> •
-  <a href="YOUR_LEETCODE_URL">LeetCode</a> •
-  <a href="YOUR_GFG_URL">GeeksforGeeks</a>
+  <a href="https://leetcode.com/u/naitiksaraf/">LeetCode</a> •
+  <a href="https://www.geeksforgeeks.org/profile/naitiksacgdx">GeeksforGeeks</a>
 </p>
 
 <p align="center">
