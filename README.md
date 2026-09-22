@@ -5,7 +5,7 @@ CSE Student • MERN Stack Developer • DSA • Exploring AI & GenAI
 </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/naitik-saraf-25ns07">
+  <a href="https://www.linkedin.com/in/naitik-saraf-25ns07/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:naitiksaraf2507@gmail.com">
