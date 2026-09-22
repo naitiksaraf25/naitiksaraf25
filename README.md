@@ -1,36 +1,94 @@
-## Naitik Saraf
+<h1 align="center">Hi 👋, I'm Naitik Saraf</h1>
 
-
-<!--
-**naitiksaraf25/naitiksaraf25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+CSE Student • MERN Stack Developer • DSA • Exploring AI & GenAI
+</h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2088FF&center=true&vCenter=true&width=500&lines=Cpp+Python+Java;JavaScript+React+Node.js;Full-Stack+Developer" alt="Typing SVG" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:naitiksaraf2507@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="YOUR_GFG_URL">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-<a href="https://www.linkedin.com/in/naitik-saraf-25ns07" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:naitiksaraf2507@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-<img src="https://komarev.com/ghpvc/?username=naitiksaraf25&label=Profile%20views&color=0e75a7&style=for-the-badge" alt="Profile Views" />
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science Engineering student interested in building practical
+software solutions and continuously improving my problem-solving skills.
+
+- 🎓 Computer Science Engineering student at Jabalpur Engineering College
+- 💻 Focused on Full Stack Web Development with the MERN stack
+- 🧠 Actively practicing Data Structures & Algorithms
+- 🤖 Exploring Generative AI, LLMs and AI-powered applications
+- 🚀 Interested in Backend Development and scalable software systems
+- 📚 Continuously learning and building through projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,python" />
 </p>
 
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
-Github Metrics 📊📈:-
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-![Top Streak](https://github-readme-streak-stats.herokuapp.com/?user=naitiksaraf25&theme=dark)
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode" />
+</p>
+
+---
+
+## 🧠 DSA & Problem Solving
+
+I regularly practice Data Structures & Algorithms to strengthen
+problem-solving, algorithmic thinking and coding fundamentals.
+
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Recursion & Backtracking
+- Trees & BST
+- Graphs
+- Greedy Algorithms
+- Dynamic Programming
+
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-270%2B%20Problems-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Generative AI
+     ↓
+LLMs & AI APIs
+     ↓
+Prompt Engineering
+     ↓
+RAG Fundamentals
+     ↓
+AI-powered Applications
