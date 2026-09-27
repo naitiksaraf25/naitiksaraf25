@@ -89,6 +89,10 @@ software solutions and continuously improving my problem-solving skills.
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naitiksaraf25&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=naitiksaraf25&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
