@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naitik Saraf</h1>
+<h1 align="center">Hi, I'm Naitik Saraf</h1>
 
 <h3 align="center">
 CSE Student • MERN Stack Developer • DSA • Exploring AI & GenAI
@@ -26,12 +26,12 @@ CSE Student • MERN Stack Developer • DSA • Exploring AI & GenAI
 I'm a Computer Science Engineering student interested in building practical
 software solutions and continuously improving my problem-solving skills.
 
-- 🎓 Computer Science Engineering student at Jabalpur Engineering College
-- 💻 Focused on Full Stack Web Development with the MERN stack
-- 🧠 Actively practicing Data Structures & Algorithms
-- 🤖 Exploring Generative AI, LLMs and AI-powered applications
-- 🚀 Interested in Backend Development and scalable software systems
-- 📚 Continuously learning and building through projects
+- Computer Science Engineering student at Jabalpur Engineering College
+- Focused on Full Stack Web Development with the MERN stack
+- Actively practicing Data Structures & Algorithms
+- Exploring Generative AI, LLMs and AI-powered applications
+- Interested in Backend Development and scalable software systems
+- Continuously learning and building through projects
 
 ---
 
@@ -63,7 +63,7 @@ software solutions and continuously improving my problem-solving skills.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Generative AI
 - LLMs & AI APIs
@@ -76,17 +76,17 @@ software solutions and continuously improving my problem-solving skills.
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🎓 Computer Science Engineering — Jabalpur Engineering College
-- 🏆 Selected for Smart India Hackathon 2026
-- 💻 600+ combined problems solved across coding platforms
-- 🚀 Building full-stack applications using the MERN stack
-- 🤖 Exploring Generative AI and LLM-based applications
+- Computer Science Engineering — Jabalpur Engineering College
+- Selected for Smart India Hackathon 2026
+- 600+ combined problems solved across coding platforms
+- Building full-stack applications using the MERN stack
+- Exploring Generative AI and LLM-based applications
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naitiksaraf25&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -111,7 +111,7 @@ software solutions and continuously improving my problem-solving skills.
 </p>
 
 
-## 💡 Areas of Interest
+##  Areas of Interest
 
 <p align="center">
 
